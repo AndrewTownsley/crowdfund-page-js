@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Commissioner&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-header {
+  background-image: url("..images/image-hero-mobile.jpg");
+  background-position: cover;
+}
