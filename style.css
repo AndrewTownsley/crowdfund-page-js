@@ -8,5 +8,7 @@
 
 .main-header {
   background-image: url("..images/image-hero-mobile.jpg");
-  background-position: cover;
+  background-position: center;
+  height: 300px;
+  width: 100%;
 }
